@@ -25,6 +25,6 @@ Pandas — manipulação de dados
 NumPy — operações numéricas
 Matplotlib — visualização gráfica
 mlxtend — implementação do Apriori
-`´unidecode — normalização textual`
+`unidecode — normalização textual`
 
 ---
