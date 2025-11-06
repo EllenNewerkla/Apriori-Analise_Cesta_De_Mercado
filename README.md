@@ -10,7 +10,6 @@ A partir de um dataset sintético (ou real), são descobertos padrões de compra
 ---
 
 🚀 Objetivos Principais
-
 - Aplicar o algoritmo Apriori para encontrar itemsets frequentes;
 - Gerar regras de associação com base em suporte, confiança e lift;
 - Visualizar graficamente os produtos mais vendidos e as principais regras;
@@ -19,8 +18,7 @@ A partir de um dataset sintético (ou real), são descobertos padrões de compra
 ---
 
 ⚙️ Tecnologias Utilizadas
-
-Python 3.x
+- `Python 3.x`
 - `Pandas` — manipulação de dados
 - `NumPy` — operações numéricas
 - `Matplotlib` — visualização gráfica
