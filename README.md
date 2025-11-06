@@ -1,7 +1,7 @@
 # Análise de Cesta de Mercado — Algoritmo Apriori e MBA
 
 
-##📘 Sobre o Projeto
+#📘 Sobre o Projeto
 
 Este projeto implementa uma Análise de Cesta de Mercado (Market Basket Analysis) utilizando o algoritmo Apriori para identificar regras de associação entre produtos em um conjunto de transações de supermercado.
 
