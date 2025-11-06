@@ -15,3 +15,16 @@ A partir de um dataset sintético (ou real), são descobertos padrões de compra
 - Gerar regras de associação com base em suporte, confiança e lift;
 - Visualizar graficamente os produtos mais vendidos e as principais regras;
 - Explorar e interpretar os resultados de forma crítica e compreensível.
+
+---
+
+⚙️ Tecnologias Utilizadas
+
+Python 3.x
+Pandas — manipulação de dados
+NumPy — operações numéricas
+Matplotlib — visualização gráfica
+mlxtend — implementação do Apriori
+`´unidecode — normalização textual`
+
+---
