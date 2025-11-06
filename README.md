@@ -21,10 +21,10 @@ A partir de um dataset sintético (ou real), são descobertos padrões de compra
 ⚙️ Tecnologias Utilizadas
 
 Python 3.x
-Pandas — manipulação de dados
-NumPy — operações numéricas
-Matplotlib — visualização gráfica
-mlxtend — implementação do Apriori
-`unidecode — normalização textual`
+- `Pandas` — manipulação de dados
+- `NumPy` — operações numéricas
+- `Matplotlib` — visualização gráfica
+- `mlxtend` — implementação do Apriori
+- `unidecode` — normalização textual
 
 ---
