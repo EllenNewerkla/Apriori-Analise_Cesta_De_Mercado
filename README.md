@@ -93,15 +93,6 @@ A partir de um dataset sintético (ou real), são descobertos padrões de compra
 Suporte: 0.05 | Confiança: 0.45 | Lift: 2.3
 ```
 
-
-## Interpretação dos Resultados
-- **Suporte:** frequência com que o item ou conjunto aparece nas transações.  
-- **Confiança:** probabilidade de o consequente ocorrer dado o antecedente.  
-- **Lift:** mede o quanto o antecedente aumenta a probabilidade do consequente.  
-
-> Exemplo: um lift de 2,0 indica que “manteiga” é duas vezes mais provável de ser comprada quando “pão” está presente.
-
-
 ## Conclusões
 - O algoritmo Apriori é eficiente para encontrar **relações significativas entre produtos**.  
 - Mesmo com dados sintéticos, é possível visualizar comportamentos típicos de consumo.  
@@ -109,13 +100,6 @@ Suporte: 0.05 | Confiança: 0.45 | Lift: 2.3
   - Recomendações de compra;
   - Promoções conjuntas;
   - Estratégias de precificação.
-
-
-## Próximos Passos e Melhorias
-- Utilizar datasets reais (ex.: **Instacart Market Basket**, **Groceries.csv**);  
-- Comparar desempenho com outros algoritmos, como **FP-Growth**;  
-- Implementar uma **interface interativa** para ajuste de parâmetros;  
-- Automatizar geração de relatórios e dashboards.
 
 
 ## Como Executar o Projeto no Google Colab
