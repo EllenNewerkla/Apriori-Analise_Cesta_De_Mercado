@@ -71,8 +71,12 @@ A partir de um dataset sintético (ou real), são descobertos padrões de compra
      `('arroz',) → ('feijão',)` com suporte/confiança/lift calculados.
 
 8. **Visualizações**
-   - Gráfico de barras dos produtos mais frequentes;  
+   - Gráfico de barras dos produtos mais frequentes;
+<img width="985" height="479" alt="Captura de tela 2025-11-06 011859" src="https://github.com/user-attachments/assets/7433a772-e4d7-4d00-a99f-bfb9cd2280cd" />
+ 
    - Gráfico horizontal das regras com maior lift.
+<img width="983" height="583" alt="Captura de tela 2025-11-06 011905" src="https://github.com/user-attachments/assets/7dafb1b0-d8ac-4efa-b283-4aac35142c7d" />
+
 
 9. **Exportação dos resultados**
    - Arquivo `regras_apriori.csv` contendo todas as regras geradas.
